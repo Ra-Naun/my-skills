@@ -1,0 +1,15 @@
+html {
+    overflow-y: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.handle:active {
+    cursor: grabbing;
+}
+
+.scale {
+    transform: scale(0.5);
+}
